@@ -1,0 +1,3 @@
+# Code-Quiz-Homework-Assignment
+
+This homework assignment required me to create a simple multiple question quiz. There needed to be a timer counting down and each question would subtract time from the timer. After the timer hits zero or the user has finished all of the questions, they are taken to a new page where they can record their name/initials and their score (time remaining). These entries were to be saved in local storage so they would be shown upon reloading the page.
